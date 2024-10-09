@@ -1,0 +1,14 @@
+C:\Users\Ana Silva\Desktop\BackEnd\POO\livro\livro\obj\Debug\net8.0\livro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Silva\Desktop\BackEnd\POO\livro\livro\obj\Debug\net8.0\livro.AssemblyInfoInputs.cache
+C:\Users\Ana Silva\Desktop\BackEnd\POO\livro\livro\obj\Debug\net8.0\livro.AssemblyInfo.cs
+C:\Users\Ana Silva\Desktop\BackEnd\POO\livro\livro\obj\Debug\net8.0\livro.csproj.CoreCompileInputs.cache
+C:\Users\Ana Silva\Desktop\BackEnd\POO\livro\livro\bin\Debug\net8.0\livro.exe
+C:\Users\Ana Silva\Desktop\BackEnd\POO\livro\livro\bin\Debug\net8.0\livro.deps.json
+C:\Users\Ana Silva\Desktop\BackEnd\POO\livro\livro\bin\Debug\net8.0\livro.runtimeconfig.json
+C:\Users\Ana Silva\Desktop\BackEnd\POO\livro\livro\bin\Debug\net8.0\livro.dll
+C:\Users\Ana Silva\Desktop\BackEnd\POO\livro\livro\bin\Debug\net8.0\livro.pdb
+C:\Users\Ana Silva\Desktop\BackEnd\POO\livro\livro\obj\Debug\net8.0\livro.dll
+C:\Users\Ana Silva\Desktop\BackEnd\POO\livro\livro\obj\Debug\net8.0\refint\livro.dll
+C:\Users\Ana Silva\Desktop\BackEnd\POO\livro\livro\obj\Debug\net8.0\livro.pdb
+C:\Users\Ana Silva\Desktop\BackEnd\POO\livro\livro\obj\Debug\net8.0\livro.genruntimeconfig.cache
+C:\Users\Ana Silva\Desktop\BackEnd\POO\livro\livro\obj\Debug\net8.0\ref\livro.dll

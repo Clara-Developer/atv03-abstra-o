@@ -1,0 +1,14 @@
+C:\Users\Ana Silva\Desktop\BackEnd\POO\livro\Produtos\obj\Debug\net8.0\Produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana Silva\Desktop\BackEnd\POO\livro\Produtos\obj\Debug\net8.0\Produtos.AssemblyInfoInputs.cache
+C:\Users\Ana Silva\Desktop\BackEnd\POO\livro\Produtos\obj\Debug\net8.0\Produtos.AssemblyInfo.cs
+C:\Users\Ana Silva\Desktop\BackEnd\POO\livro\Produtos\obj\Debug\net8.0\Produtos.csproj.CoreCompileInputs.cache
+C:\Users\Ana Silva\Desktop\BackEnd\POO\livro\Produtos\bin\Debug\net8.0\Produtos.exe
+C:\Users\Ana Silva\Desktop\BackEnd\POO\livro\Produtos\bin\Debug\net8.0\Produtos.deps.json
+C:\Users\Ana Silva\Desktop\BackEnd\POO\livro\Produtos\bin\Debug\net8.0\Produtos.runtimeconfig.json
+C:\Users\Ana Silva\Desktop\BackEnd\POO\livro\Produtos\bin\Debug\net8.0\Produtos.dll
+C:\Users\Ana Silva\Desktop\BackEnd\POO\livro\Produtos\bin\Debug\net8.0\Produtos.pdb
+C:\Users\Ana Silva\Desktop\BackEnd\POO\livro\Produtos\obj\Debug\net8.0\Produtos.dll
+C:\Users\Ana Silva\Desktop\BackEnd\POO\livro\Produtos\obj\Debug\net8.0\refint\Produtos.dll
+C:\Users\Ana Silva\Desktop\BackEnd\POO\livro\Produtos\obj\Debug\net8.0\Produtos.pdb
+C:\Users\Ana Silva\Desktop\BackEnd\POO\livro\Produtos\obj\Debug\net8.0\Produtos.genruntimeconfig.cache
+C:\Users\Ana Silva\Desktop\BackEnd\POO\livro\Produtos\obj\Debug\net8.0\ref\Produtos.dll
